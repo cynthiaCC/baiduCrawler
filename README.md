@@ -1,6 +1,6 @@
 # baiduCrawler
 A panorama crawler based on Baidu Maps open API.
-usage: 
+ 
 
 ## baiduCrawler.py
 
